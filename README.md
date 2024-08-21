@@ -13,4 +13,4 @@ Tab:AddButton({ Name = "High Speed", Callback = function() player.Character.Huma
 Tab:AddButton({ Name = "High Jumppower", Callback = function() player.Character.Humanoid.JumpPower = 100 end }) --[[ Name = - The name of the button. Callback = - The function of the button. ]]
 
 Tab:AddButton({ Name = "Low Gravity", Callback = function() game.Workspace.Gravity = 10 end }) --[[ Name = - The name of the button. Callback = - The function of the button. ]]
--- h
+-- I CANT CHANGE THIS HYELP ME
